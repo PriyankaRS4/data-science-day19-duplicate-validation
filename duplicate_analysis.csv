@@ -1,0 +1,5 @@
+Metric,Value
+Original rows,1000
+Duplicate rows,0
+Rows after drop_duplicates,1000
+Duplicate groups,0
